@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="correo">Correo</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="btnIngresar">Iniciar sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="Contraseña2">Reingrese Contraseña</string>
+    <string name="registrate">Crear cuenta</string>
+    <string name="libros">Libros</string>
+    <string name="retiro">Retiro</string>
+    <string name="prestamo">Prestamo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
